@@ -2,7 +2,7 @@
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-**Welcome to the CodeAdam Brand Guidelines and Standards documentation. This guide is designed to apply our branding consistently across various media.**
+**Welcome to the BrickColab Brand Guidelines and Standards documentation. This guide is designed to apply our branding consistently across various media.**
 
 **A brand is not simply a logo or a tagline. It is a whole identity built on a foundation of values and goals that represent CodeAdam.**
 
@@ -16,7 +16,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>Primary Logo:</h3>
 <p>In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.</p>
-<img src="png/CodeAdam_Logo_Coloured.png">
+<img src="png/brickcolab-logo-coloured.png">
 
 </td>
 <td width="50%"></td>
@@ -30,13 +30,13 @@ Please refer to the publications below for the brand guidelines which review the
 <td width="50%">
 
 <h3>Coloured Logo</h3>
-<img src="png/CodeAdam_Logo_Coloured.png">
+<img src="png/brickcolab-logo-coloured.png">
 
 </td>
 <td width="50%">
 
 <h3>Monotone Logo (Black)</h3>
-<img src="png/CodeAdam_Logo_Black.png">
+<img src="png/brickcolab-logo-black.png">
 
 </td>
 </tr>
@@ -54,7 +54,7 @@ RGB: 255 91 0
 <br>
 HEX: #ff5b00
 <br>
-<img src="colours/Orange.jpg" width="100" height="100">
+<img src="colours/orange.jpg" width="100" height="100">
 
 </td>
 <td width="33.3%">
@@ -67,7 +67,7 @@ RGB: 255 0 0
 <br>
 HEX: #ff0000
 <br>
-<img src="colours/Red.jpg" width="100" height="100">
+<img src="colours/red.jpg" width="100" height="100">
 
 </td>
 <td width="33.3%">
@@ -80,7 +80,7 @@ RGB: 237 237 237
 <br>
 HEX: #ededed
 <br>
-<img src="colours/Grey.jpg" width="100" height="100">
+<img src="colours/grey.jpg" width="100" height="100">
 
 </td>
 </tr>
@@ -93,18 +93,18 @@ HEX: #ededed
 <td width="50%">
 
 <h3>Standard Coloured Logo</h3>
-<img src="png/CodeAdam_Logo_Coloured.png">
+<img src="png/brickcolab-logo-coloured.png">
 <ul>
-<li><a href="png/CodeAdam_Logo_Coloured.png" download>CodeAdam_Logo_Coloured.png</a></li>
+<li><a href="png/brickcolab-logo-coloured.png" download>CodeAdam_Logo_Coloured.png</a></li>
 </ul>
 
 </td>
 <td width="50%">
 
 <h3>Standard Coloured Logo Horizontal</h3>
-<img src="png/CodeAdam_Logo_Coloured_Horizontal.png">
+<img src="png/brickcolab-logo-horizontal-coloured.png">
 <ul>
-<li><a href="png/CodeAdam_Logo_Coloured_Horizontal.png" download>CodeAdam_Logo_Coloured_Horizontal.png</a></li>
+<li><a href="png/brickcolab-logo-horizontal-coloured.png" download>brickcolab-logo-horizontal-coloured.png</a></li>
 </ul>
 
 </td>
@@ -113,18 +113,22 @@ HEX: #ededed
 <td width="50%">
 
 <h3>Standard Logo Black </h3>
-<img src="png/CodeAdam_Logo_Black.png">
+<img src="png/brickcolab-logo-black.png">
 <ul>
-<li><a href="png/CodeAdam_Logo_Black.png" download>CodeAdam_Logo_Black.png</a></li>
+<li><a href="png/brickcolab-logo-black.png" download>brickcolab-logo-black.png</a></li>
+<li><a href="svg/brickcolab-logo-black.svg" download>brickcolab-logo-black.svg</a></li>
+<li><a href="eps/brickcolab-logo-black.eps" download>brickcolab-logo-black.eps</a></li>
 </ul>
 
 </td>
 <td width="50%">
 
 <h3>Logo Black Horizontal</h3>
-<img src="png/CodeAdam_Logo_Black_Horizontal.png">
+<img src="png/brickcolab-logo-horizontal-black.png">
 <ul>
-<li><a href="png/CodeAdam_Logo_Black_Horizontal.png" download>CodeAdam_Logo_Black_Horizontal.png</a></li>
+<li><a href="png/brickcolab-logo-horizontal-black.png" download>brickcolab-logo-horizontal-black.png</a></li>
+<li><a href="svg/brickcolab-logo-horizontal-black.png" download>brickcolab-logo-horizontal-black.svg</a></li>
+<li><a href="eps/brickcolab-logo-horizontal-black.png" download>brickcolab-logo-horizontal-black.eps</a></li>
 </ul>
 
 </td>
