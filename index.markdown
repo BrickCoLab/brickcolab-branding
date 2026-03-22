@@ -1,5 +1,3 @@
-# branding
-
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
 **Welcome to the BrickColab Brand Guidelines and Standards documentation. This guide is designed to apply our branding consistently across various media.**
